@@ -12,7 +12,7 @@ The sort is implemented in the following order:
 
 Names without a given name or more than 3 given names are rejected.  
 The results are printed to screen.  
-Additionally, the results are written to a file name "sorted-names-list.txt".  
+Additionally, the results are written to a file named "sorted-names-list.txt".  
 The file will be located in the executing directory.
 
 ## Download the project from GitHub
